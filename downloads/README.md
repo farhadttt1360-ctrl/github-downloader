@@ -7,6 +7,7 @@
 - [WukongTweak_v0.8.5](./WukongTweak_v0.8.5)
 - [ludusavi-v0.31.0-win64](./ludusavi-v0.31.0-win64)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
+- [omniget_0.5.2_x64-portable](./omniget_0.5.2_x64-portable)
 - [v2rayN-windows-64-desktop](./v2rayN-windows-64-desktop)
 
 ---
